@@ -1,0 +1,11 @@
+C:\Work\INDUS3\Q1\C#\Travaux\Labo1\labo1git\labo1git\bin\Debug\netcoreapp3.0\labo1git.exe
+C:\Work\INDUS3\Q1\C#\Travaux\Labo1\labo1git\labo1git\bin\Debug\netcoreapp3.0\labo1git.deps.json
+C:\Work\INDUS3\Q1\C#\Travaux\Labo1\labo1git\labo1git\bin\Debug\netcoreapp3.0\labo1git.runtimeconfig.json
+C:\Work\INDUS3\Q1\C#\Travaux\Labo1\labo1git\labo1git\bin\Debug\netcoreapp3.0\labo1git.runtimeconfig.dev.json
+C:\Work\INDUS3\Q1\C#\Travaux\Labo1\labo1git\labo1git\bin\Debug\netcoreapp3.0\labo1git.dll
+C:\Work\INDUS3\Q1\C#\Travaux\Labo1\labo1git\labo1git\bin\Debug\netcoreapp3.0\labo1git.pdb
+C:\Work\INDUS3\Q1\C#\Travaux\Labo1\labo1git\labo1git\obj\Debug\netcoreapp3.0\labo1git.csprojAssemblyReference.cache
+C:\Work\INDUS3\Q1\C#\Travaux\Labo1\labo1git\labo1git\obj\Debug\netcoreapp3.0\labo1git.AssemblyInfoInputs.cache
+C:\Work\INDUS3\Q1\C#\Travaux\Labo1\labo1git\labo1git\obj\Debug\netcoreapp3.0\labo1git.AssemblyInfo.cs
+C:\Work\INDUS3\Q1\C#\Travaux\Labo1\labo1git\labo1git\obj\Debug\netcoreapp3.0\labo1git.dll
+C:\Work\INDUS3\Q1\C#\Travaux\Labo1\labo1git\labo1git\obj\Debug\netcoreapp3.0\labo1git.pdb
